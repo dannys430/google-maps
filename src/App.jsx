@@ -31,7 +31,9 @@ export const App = () => {
     map.center = getCoords
   }
   
-  const errorLocation = () => {}
+  const errorLocation = () => {
+    // error handling
+  }
   
   
   
