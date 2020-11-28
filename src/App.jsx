@@ -41,7 +41,10 @@ export const App = () => {
   
   return(
     <div>
-      <div ref={node} className="mapContainer"></div>
+      <div 
+        ref={node} 
+        className="mapContainer">
+      </div>
     </div>
   )
   
